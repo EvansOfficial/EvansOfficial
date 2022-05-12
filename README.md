@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvansOfficial | Adrian Wierzba
 - 👀 I’m interested in Computer networks, games, cycling, music
-- 🌱 I’m currently learning C# and PhP
+- 🌱 I’m currently learning Java and PhP
 - 💞️ I’m looking to collaborate on companies dealing with the operation, management and repair of computer networks
 - 📫 How to reach me? --> adrian.wierzba@icloud.com | tomasz.wierzba5002@gmail.com | 
 
